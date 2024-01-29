@@ -1,0 +1,15 @@
+.div_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  font-size: 40px;
+  color: #010101;
+  padding: 20px;
+}
+.div_container h1 {
+  font-size: 32px;
+}
+.div_container h2 {
+  font-size: 28px;
+}

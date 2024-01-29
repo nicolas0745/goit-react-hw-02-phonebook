@@ -1,0 +1,12 @@
+.container_filter {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.container_filter label {
+  font-size: 18px;
+}
+.container_filter input {
+  width: 200px;
+  margin-bottom: 20px;
+}
